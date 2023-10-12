@@ -1,8 +1,0 @@
-       --help display this help and exit
-       --hide=PATTERN
-       --hyperlink[=WHEN]
-       --indicator-style=WORD
-       --quoting-style=WORD
-       --show-control-chars
-       --si   likewise, but use powers of 1000 not 1024
-       --sort=WORD
